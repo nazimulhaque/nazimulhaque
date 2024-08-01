@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazimulhaque
-- 👀 I’m interested in task automation. The task can be anything that a computer can do.
-- 🌱 I’m currently learning Python and Laravel.
+- 👀 I’m interested in full-stack development.
+- 🌱 I’ve been learning and trying to work on Django.
 - 💞️ I’m looking to collaborate on (not decided yet)
 - 📫 How to reach me: md.nazimul.haque@gmail.com
 
